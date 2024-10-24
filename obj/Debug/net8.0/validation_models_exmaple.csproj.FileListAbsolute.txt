@@ -1,0 +1,14 @@
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/bin/Debug/net8.0/validation_models_exmaple
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/bin/Debug/net8.0/validation_models_exmaple.deps.json
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/bin/Debug/net8.0/validation_models_exmaple.runtimeconfig.json
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/bin/Debug/net8.0/validation_models_exmaple.dll
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/bin/Debug/net8.0/validation_models_exmaple.pdb
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/obj/Debug/net8.0/validation_models_exmaple.GeneratedMSBuildEditorConfig.editorconfig
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/obj/Debug/net8.0/validation_models_exmaple.AssemblyInfoInputs.cache
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/obj/Debug/net8.0/validation_models_exmaple.AssemblyInfo.cs
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/obj/Debug/net8.0/validation_models_exmaple.csproj.CoreCompileInputs.cache
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/obj/Debug/net8.0/validation_models_exmaple.dll
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/obj/Debug/net8.0/refint/validation_models_exmaple.dll
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/obj/Debug/net8.0/validation_models_exmaple.pdb
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/obj/Debug/net8.0/validation_models_exmaple.genruntimeconfig.cache
+/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/obj/Debug/net8.0/ref/validation_models_exmaple.dll

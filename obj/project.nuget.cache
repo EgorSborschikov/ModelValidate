@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYFnk6Yl12Q=",
+  "success": true,
+  "projectFilePath": "/home/egor/Documents/validation_models_exmaple/validation_models_exmaple/validation_models_exmaple.csproj",
+  "expectedPackageFiles": [
+    "/home/egor/.nuget/packages/microsoft.netcore.app.ref/8.0.10/microsoft.netcore.app.ref.8.0.10.nupkg.sha512",
+    "/home/egor/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512",
+    "/home/egor/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.10/microsoft.netcore.app.host.linux-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
